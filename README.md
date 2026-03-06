@@ -1,3 +1,13 @@
+
+██████████████████████████████████████████████████████████████████████████
+█  RICHARD DUANE KINDLER                                                   █
+█                     RC87 (floating neon badge)                           █
+█  Founder • Architect • Creator                                           █
+█  Crypto • Assets • Banking • Identity • Governance • Automation • Credit █
+█  Building, Testing, and Distributing Digital Products and Tools          █
+█  Fueling the Next Generation of Digital Tools and Digital Products       █
+██████████████████████████████████████████████████████████████████████████
+
 # Public-personal-Full-Bio
 My personal public full bio repository 
 🛡️ Personal Authority Wall
